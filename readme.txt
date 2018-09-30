@@ -1,4 +1,4 @@
-Platooning_ent_ramp_source_edit_03_20_17
+Platooning_ent_ramp
 
 CACC vehicles can detect manual vehicles on hte ramp and slow dowm or change lane to facilitate merging
 Controlling manual vehicles using dll to obtain the information of vehicles on the ramp
