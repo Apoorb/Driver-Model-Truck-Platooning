@@ -1,6 +1,6 @@
 Platooning_ent_ramp
 
-CACC vehicles can detect manual vehicles on hte ramp and slow dowm or change lane to facilitate merging
+CACC vehicles can detect manual vehicles on the ramp and slow dowm or change lane to facilitate merging
 Controlling manual vehicles using dll to obtain the information of vehicles on the ramp
 
 Following the following coding convention in VISSIM for the platooning ramp source codes to work:
